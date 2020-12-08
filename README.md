@@ -5,7 +5,7 @@ This is a online food delivery application which uses retrofit for network call 
 There are three RecyclerViews for three sections, popular, recommended and all menu.
 
 ## Screenshots
-<img src="https://github.com/karybekov22/Food-App/blob/master/Screen%20Shot%202020-12-09%20at%2001.13.49.png" width="400" height="600">
+<img src="https://github.com/karybekov22/Food-App/blob/master/Screen%20Shot%202020-12-09%20at%2001.13.49.png" width="400" height="650">
 
 ## Tutorials used:
 - The Code Nest YT ([link](https://www.youtube.com/c/TheCodeNest/))
